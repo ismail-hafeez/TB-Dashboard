@@ -1,6 +1,5 @@
 # TB-Dashboard
 
-Overview
 This dashboard visualizes insights into Tuberculosis (TB) cases across the globe, utilizing data from the World Health Organization (WHO) TB Reports. The interactive visualizations aim to provide a comprehensive understanding of the trends, distribution, and testing coverage related to TB. 
 
 # Visualizations and Insights
