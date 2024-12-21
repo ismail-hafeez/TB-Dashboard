@@ -46,3 +46,5 @@ Filters allow a focused analysis of specific WHO regions (e.g., SE Asia, Europe,
 # Data Source
 All data used in this dashboard was acquired from the World Health Organization (WHO) TB Reports. The dataset encompasses global TB statistics, including new cases, treatment success rates, regional distributions, and HIV test coverage percentages.
 
+The starter codes for the graph were taken from https://observablehq.com/@d3/gallery
+
